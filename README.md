@@ -85,7 +85,7 @@ I welcome feedback and suggestions to further enhance the project. Feel free to 
 
 ## 📲 **Connect With Me**
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/aditya-arya786/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-arya786/)
 
 ---
 
