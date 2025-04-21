@@ -1,5 +1,4 @@
 # 🎯 Amazon Sales Insights Analysis 📊📦  
-### Unlocking Business Intelligence from 1.28 Lakh+ Transactions
 
 ---
 
