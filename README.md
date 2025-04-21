@@ -1,6 +1,3 @@
-# Amazon-Sales-Insights-Analysis
-Explore Amazon sales data with Python to extract actionable business insights and visualize trends using EDA.
-
 # 🎯 Amazon Sales Insights Analysis 📊📦  
 ### Unlocking Business Intelligence from 1.28 Lakh+ Transactions
 
